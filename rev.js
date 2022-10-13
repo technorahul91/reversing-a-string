@@ -7,5 +7,5 @@ function revString(str) {
    return newString; //functin should return value otherwise it will give undefned as an o/p
 }
 
-document.getElementById("demo").innerHTML = `Reversed string is: ${revString('Yes I learnt GIT.')}`;
+document.getElementById("demo").innerHTML = `Reversed string is: ${revString('Yes I learnt GIT')}`;
 // used Template literals for function callback
