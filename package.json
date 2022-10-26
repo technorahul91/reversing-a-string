@@ -1,0 +1,19 @@
+{
+  "name": "rev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rev.js",
+  "scripts": {
+    "compress": "uglifyjs ./rev.js -c -m -o ./rev.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technorahul91/reversing-a-string.git"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technorahul91/reversing-a-string/issues"
+  },
+  "homepage": "https://github.com/technorahul91/reversing-a-string#readme"
+}
